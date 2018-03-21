@@ -1,0 +1,95 @@
+﻿@model TestFinal.Models.Kontakt
+@{
+    ViewBag.Title = "Edit";
+}
+<h2>Izmena podataka o zaposlenom</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IDOsoba)
+        <div class="form-group">
+            @Html.LabelFor(model => model.Ime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Ime, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Ime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Prezime, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Prezime, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Prezime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.RadnoMesto, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RadnoMesto, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RadnoMesto, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Sačuvaj izmene" class="btn btn-default" id="dugme" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    <button type="button" onclick="location.href='@Url.Action("Index", "Kontakt", new { id = Model.IDPreduzeca })'" class="dugmeE">Nazad</button>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    #dugme {
+        display: block;
+        background-color: #fff;
+        color: z;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 170px;
+    }
+
+    .dugmeE {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    #dugme:hover {
+        color: #1a3a7e;
+        border-color: #1a3a7e;
+    }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

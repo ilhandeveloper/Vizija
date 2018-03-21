@@ -1,0 +1,1918 @@
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\ApplicationInsights.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\TestFinal.dll.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\TestFinal.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\TestFinal.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\csc.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\csc.rsp
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\csi.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\csi.rsp
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\WebGrease.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\ApplicationInsights.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\TestFinal.dll.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\TestFinal.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\TestFinal.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\csc.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\csc.rsp
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\csi.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\csi.rsp
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\WebGrease.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\ApplicationInsights.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\TestFinal.dll.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\TestFinal.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\TestFinal.pdb
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\csc.exe
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\csc.rsp
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\csi.exe
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\csi.rsp
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\vbc.exe
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\EntityFramework.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Owin.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Razor.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\WebGrease.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.Razor.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\EntityFramework.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal\obj\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\TestFinal.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\csc.exe
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\csc.exe.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\csc.rsp
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\csi.exe
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\csi.exe.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\csi.rsp
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.AppContext.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Console.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.IO.Compression.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.IO.Pipes.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.Claims.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Threading.Thread.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.ValueTuple.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\vbc.exe
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\vbc.exe.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\vbc.rsp
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\VBCSCompiler.exe
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Antlr3.Runtime.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\EntityFramework.SqlServer.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.Web.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Owin.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\WebGrease.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Antlr3.Runtime.pdb
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\EntityFramework.SqlServer.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\bin\Microsoft.AI.Web.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\obj\Debug\TestFinal.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\obj\Debug\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\obj\Debug\TestFinal.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\obj\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal\obj\Debug\TestFinal.pdb

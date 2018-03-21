@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VizijaXModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="GlavnaTabela">
+    <Key>
+      <PropertyRef Name="IDPreduzeca" />
+    </Key>
+    <Property Name="IDPreduzeca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NazivPreduzeca" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="AdresaRegistracijePreduzeca" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Opstina" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="MaticniBrojPreduzeca" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="PIB" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="BrRacuna" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="WebStranica" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Fotografija" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Beleska" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Kontakts" Relationship="Self.FK_Kontakt_GlavnaTabela" FromRole="GlavnaTabela" ToRole="Kontakt" />
+  </EntityType>
+  <EntityType Name="Kontakt">
+    <Key>
+      <PropertyRef Name="IDOsoba" />
+    </Key>
+    <Property Name="IDOsoba" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDPreduzeca" Type="Int32" Nullable="false" />
+    <Property Name="Ime" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Prezime" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="RadnoMesto" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="GlavnaTabela" Relationship="Self.FK_Kontakt_GlavnaTabela" FromRole="Kontakt" ToRole="GlavnaTabela" />
+    <NavigationProperty Name="KontaktMails" Relationship="Self.FK_KontaktMail_Kontakt" FromRole="Kontakt" ToRole="KontaktMail" />
+    <NavigationProperty Name="KontaktTelefons" Relationship="Self.FK_KontaktTelefon_Kontakt" FromRole="Kontakt" ToRole="KontaktTelefon" />
+  </EntityType>
+  <EntityType Name="KontaktMail">
+    <Key>
+      <PropertyRef Name="IDMail" />
+    </Key>
+    <Property Name="IDMail" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDOsoba" Type="Int32" Nullable="false" />
+    <Property Name="OznakaPosla" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="Adresa" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Kontakt" Relationship="Self.FK_KontaktMail_Kontakt" FromRole="KontaktMail" ToRole="Kontakt" />
+  </EntityType>
+  <EntityType Name="KontaktTelefon">
+    <Key>
+      <PropertyRef Name="IDTel" />
+    </Key>
+    <Property Name="IDTel" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDOsoba" Type="Int32" Nullable="false" />
+    <Property Name="OznakaTelefona" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="BrojTelefona" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="Lokal" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Kontakt" Relationship="Self.FK_KontaktTelefon_Kontakt" FromRole="KontaktTelefon" ToRole="Kontakt" />
+  </EntityType>
+  <Association Name="FK_Kontakt_GlavnaTabela">
+    <End Role="GlavnaTabela" Type="Self.GlavnaTabela" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GlavnaTabela">
+        <PropertyRef Name="IDPreduzeca" />
+      </Principal>
+      <Dependent Role="Kontakt">
+        <PropertyRef Name="IDPreduzeca" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KontaktMail_Kontakt">
+    <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="KontaktMail" Type="Self.KontaktMail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontakt">
+        <PropertyRef Name="IDOsoba" />
+      </Principal>
+      <Dependent Role="KontaktMail">
+        <PropertyRef Name="IDOsoba" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_KontaktTelefon_Kontakt">
+    <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="KontaktTelefon" Type="Self.KontaktTelefon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kontakt">
+        <PropertyRef Name="IDOsoba" />
+      </Principal>
+      <Dependent Role="KontaktTelefon">
+        <PropertyRef Name="IDOsoba" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Vizija" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="GlavnaTabelas" EntityType="Self.GlavnaTabela" />
+    <EntitySet Name="Kontakts" EntityType="Self.Kontakt" />
+    <EntitySet Name="KontaktMails" EntityType="Self.KontaktMail" />
+    <EntitySet Name="KontaktTelefons" EntityType="Self.KontaktTelefon" />
+    <AssociationSet Name="FK_Kontakt_GlavnaTabela" Association="Self.FK_Kontakt_GlavnaTabela">
+      <End Role="GlavnaTabela" EntitySet="GlavnaTabelas" />
+      <End Role="Kontakt" EntitySet="Kontakts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KontaktMail_Kontakt" Association="Self.FK_KontaktMail_Kontakt">
+      <End Role="Kontakt" EntitySet="Kontakts" />
+      <End Role="KontaktMail" EntitySet="KontaktMails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_KontaktTelefon_Kontakt" Association="Self.FK_KontaktTelefon_Kontakt">
+      <End Role="Kontakt" EntitySet="Kontakts" />
+      <End Role="KontaktTelefon" EntitySet="KontaktTelefons" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

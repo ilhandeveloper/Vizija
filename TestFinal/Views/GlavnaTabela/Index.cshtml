@@ -1,0 +1,155 @@
+﻿@model IEnumerable<TestFinal.Models.GlavnaTabela>
+@{
+    ViewBag.Title = "Index";
+}
+<h2 style="color:#1a3a7e;">
+    <b>Preduzeća </b>
+    <button id="dugme" type="button" onclick="location.href='@Url.Action("Create", "GlavnaTabela")'" class="btn btn-default">Dodaj novo preduzeće</button>
+</h2>
+<hr />
+<table class="table table-hover table-bordered">
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NazivPreduzeca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AdresaRegistracijePreduzeca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opstina)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MaticniBrojPreduzeca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PIB)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BrRacuna)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.WebStranica)
+        </th>
+        <th>Zaposleni</th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fotografija)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Beleska)
+        </th>
+        <th>Opcije</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <b>  @Html.DisplayFor(modelItem => item.NazivPreduzeca)</b>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AdresaRegistracijePreduzeca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Opstina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaticniBrojPreduzeca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PIB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrRacuna)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WebStranica)
+            </td>
+            <td>
+                @Html.ActionLink("Otvori Listu", "Index", "Kontakt", new { id = item.IDPreduzeca }, null)
+            </td>
+            <td>
+                @{
+                    if (item.Fotografija != null)
+                    {
+                        var base64 = Convert.ToBase64String(item.Fotografija);
+                        var imgSrc = string.Format("data: image/gif; base64, {0}", base64);
+                        <img src='@imgSrc' style="max-width:80px; max-height:80px" />
+                    }
+
+
+
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Beleska)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", "GlavnaTabela", new { id = item.IDPreduzeca })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-pencil-square-o"></i>
+                </a>
+
+                <a href="@Url.Action("Details", "GlavnaTabela",   new { id = item.IDPreduzeca })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-eye"></i>
+                </a>
+                <a href="@Url.Action("Delete", "GlavnaTabela",  new { id = item.IDPreduzeca })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-trash-o"></i>
+                </a>
+
+            </td>
+        </tr>
+    }
+</table>
+<style type="text/css">
+
+
+
+
+    table {
+        background-color: #fff;
+        border-radius: 15px;
+        color: grey;
+    }
+
+
+
+    th {
+        color: black;
+    }
+
+    tr:hover {
+        color: #000;
+    }
+
+    a {
+        margin-left: 15px;
+        color: #3B5998;
+        font-weight: bold;
+        display: block;
+    }
+
+        a:hover {
+            color: #1a3a7e;
+        }
+
+    #dugme {
+        display: inline-block;
+        float: right;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+    }
+
+        #dugme:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

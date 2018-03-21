@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div style=" padding-top:10%">
+    <button type="button" class="dugme" onclick="location.href='@Url.Action("Index", "GlavnaTabela")'" class="btn btn-default">Formulari preduzeća</button>
+</div>
+<hr />
+<style type="text/css">
+
+
+    .dugme {
+        display: block;
+        width: 30%;
+        height: 50px;
+        margin: 0 auto;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 3px;
+        border-color: #3B5998;
+        font-size: 20px;
+    }
+
+        .dugme:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

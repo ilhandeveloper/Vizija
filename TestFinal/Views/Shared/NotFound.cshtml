@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Stranica nije pronadjena";
+}
+<p></p>
+<p></p>
+<h2 style="text-align:center; color:Red">Stranica koju tražite ne može biti pronadjena. Molimo vas proverite url.</h2>
+<button type="button" onclick="location.href='@Url.Action("Index", "Home")'" class="btn btn-default" id="dugme">Vrati se na početak</button>
+<style type="text/css">
+
+
+    #dugme {
+        display: block;
+        width: 30%;
+        height: 50px;
+        margin: 0 auto;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 3px;
+        border-color: #3B5998;
+        font-size: 20px;
+    }
+</style>

@@ -1,0 +1,82 @@
+﻿@model TestFinal.Models.KontaktMail
+@{
+    ViewBag.Title = "Details";
+}
+<h2>Detalji o E-mailu</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OznakaPosla)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OznakaPosla)
+            <p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Adresa)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Adresa)
+            <p></p>
+        </dd>
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Edit", "KontaktMail", new { id = Model.IDMail })'" class="dugmeE">Izmeni</button>
+    <button type="button" onclick="location.href='@Url.Action("Index", "KontaktMail",  new { id = Model.IDOsoba })'" class="dugmeE">Nazad</button>
+    <a href="javascript:window.print()" class="btn btn-default" id="dugmeS">Štampaj</a>
+</p>
+
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        height: 30px;
+        width: 100px;
+        padding: 5px 12px;
+    }
+
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    .dugmeE {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+
+
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

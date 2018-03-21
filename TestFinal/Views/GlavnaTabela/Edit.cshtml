@@ -1,0 +1,151 @@
+﻿@model TestFinal.Models.GlavnaTabela
+@{
+    ViewBag.Title = "Edit";
+}
+<h2>Izmena podataka o preduzeću</h2>
+@using (Html.BeginForm("Edit", "GlavnaTabela", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.IDPreduzeca)
+        <div class="form-group">
+            @Html.LabelFor(model => model.NazivPreduzeca, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NazivPreduzeca, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NazivPreduzeca, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.AdresaRegistracijePreduzeca, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AdresaRegistracijePreduzeca, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.AdresaRegistracijePreduzeca, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Opstina, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Opstina, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Opstina, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.MaticniBrojPreduzeca, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.MaticniBrojPreduzeca, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.MaticniBrojPreduzeca, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.PIB, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PIB, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PIB, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.BrRacuna, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.BrRacuna, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.BrRacuna, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.WebStranica, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.WebStranica, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.WebStranica, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <p></p>
+            @Html.LabelFor(model => model.Fotografija, htmlAttributes: new { @class = "control-label col-md-2" })
+            <p></p>
+            <div class="col-md-10">
+                <input type="file" id="image1" name="image1" />
+                <p></p>
+                @{
+                    if (Model.Fotografija != null)
+                    {
+                        var base64 = Convert.ToBase64String(Model.Fotografija);
+                        var imgSrc = string.Format("data: image/gif; base64, {0}", base64);
+                        <img src='@imgSrc' style="max-width:30%; max-height:30%" />
+                    }
+
+
+
+                }
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Beleska, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Beleska, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Beleska, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Sačuvaj izmene" class="dugme" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    <button type="button" onclick="location.href='@Url.Action("Index", "GlavnaTabela")'" class="dugmeE">Nazad</button>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    .dugme {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 170px;
+    }
+
+    .dugmeE {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    .dugme:hover {
+        color: #1a3a7e;
+        border-color: #1a3a7e;
+    }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

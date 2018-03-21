@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VizijaXModelStoreContainer" CdmEntityContainer="Vizija">
+    <EntitySetMapping Name="GlavnaTabelas">
+      <EntityTypeMapping TypeName="VizijaXModel.GlavnaTabela">
+        <MappingFragment StoreEntitySet="GlavnaTabela">
+          <ScalarProperty Name="IDPreduzeca" ColumnName="IDPreduzeca" />
+          <ScalarProperty Name="NazivPreduzeca" ColumnName="NazivPreduzeca" />
+          <ScalarProperty Name="AdresaRegistracijePreduzeca" ColumnName="AdresaRegistracijePreduzeca" />
+          <ScalarProperty Name="Opstina" ColumnName="Opstina" />
+          <ScalarProperty Name="MaticniBrojPreduzeca" ColumnName="MaticniBrojPreduzeca" />
+          <ScalarProperty Name="PIB" ColumnName="PIB" />
+          <ScalarProperty Name="BrRacuna" ColumnName="BrRacuna" />
+          <ScalarProperty Name="WebStranica" ColumnName="WebStranica" />
+          <ScalarProperty Name="Fotografija" ColumnName="Fotografija" />
+          <ScalarProperty Name="Beleska" ColumnName="Beleska" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kontakts">
+      <EntityTypeMapping TypeName="VizijaXModel.Kontakt">
+        <MappingFragment StoreEntitySet="Kontakt">
+          <ScalarProperty Name="IDOsoba" ColumnName="IDOsoba" />
+          <ScalarProperty Name="IDPreduzeca" ColumnName="IDPreduzeca" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+          <ScalarProperty Name="RadnoMesto" ColumnName="RadnoMesto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KontaktMails">
+      <EntityTypeMapping TypeName="VizijaXModel.KontaktMail">
+        <MappingFragment StoreEntitySet="KontaktMail">
+          <ScalarProperty Name="IDMail" ColumnName="IDMail" />
+          <ScalarProperty Name="IDOsoba" ColumnName="IDOsoba" />
+          <ScalarProperty Name="OznakaPosla" ColumnName="OznakaPosla" />
+          <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KontaktTelefons">
+      <EntityTypeMapping TypeName="VizijaXModel.KontaktTelefon">
+        <MappingFragment StoreEntitySet="KontaktTelefon">
+          <ScalarProperty Name="IDTel" ColumnName="IDTel" />
+          <ScalarProperty Name="IDOsoba" ColumnName="IDOsoba" />
+          <ScalarProperty Name="OznakaTelefona" ColumnName="OznakaTelefona" />
+          <ScalarProperty Name="BrojTelefona" ColumnName="BrojTelefona" />
+          <ScalarProperty Name="Lokal" ColumnName="Lokal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

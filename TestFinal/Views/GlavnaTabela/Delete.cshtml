@@ -1,0 +1,136 @@
+﻿@model TestFinal.Models.GlavnaTabela
+@{
+    ViewBag.Title = "Delete";
+}
+<h2>Izbriši</h2>
+<h3>Da li ste sigurni da želite obrisati ovo preduzeće?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NazivPreduzeca)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NazivPreduzeca)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AdresaRegistracijePreduzeca)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AdresaRegistracijePreduzeca)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Opstina)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Opstina)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.MaticniBrojPreduzeca)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.MaticniBrojPreduzeca)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PIB)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PIB)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BrRacuna)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BrRacuna)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.WebStranica)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.WebStranica)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Fotografija)<p></p>
+        </dt>
+        <dd>
+            @{
+                if (Model.Fotografija != null)
+                {
+                    var base64 = Convert.ToBase64String(Model.Fotografija);
+                    var imgSrc = string.Format("data: image/gif; base64, {0}", base64);
+                    <img src='@imgSrc' style="max-width:20%; max-height:20%" />
+                }
+
+            }
+            <p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Beleska)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Beleska)<p></p>
+        </dd>
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Izbriši" class="btn btn-default" id="dugmeS" />
+            <button type="button" onclick="location.href='@Url.Action("Index", "GlavnaTabela")'" class="dugmeE">Nazad</button>
+        </div>
+    }
+</div>
+
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        height: 30px;
+        width: 100px;
+        padding: 5px 12px;
+    }
+
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    .dugmeE {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+
+
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

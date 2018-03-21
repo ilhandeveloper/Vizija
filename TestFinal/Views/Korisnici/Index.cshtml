@@ -1,0 +1,124 @@
+﻿@model IEnumerable<TestFinal.Models.UserWithRoles>
+@{
+    ViewBag.Title = "Index";
+}
+<h3>
+    <b style="color:#3B5998;">Spisak Korisnika</b>
+    <button id="dugme" type="button" onclick="location.href='@Url.Action("Register", "Account")'" class="btn btn-default">Dodaj novog korisnika</button>
+</h3>
+
+
+<p></p>
+<hr />
+<table class="table table-hover  table-bordered">
+    <tr>
+        <th>Korisničko ime</th>
+        <th>Email</th>
+        <th>Lozinka - Hash</th>
+        <th>Pravo pristupa</th>
+        <th>Opcije</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PasswordHash)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Role)
+            </td>
+
+            <td>
+                @* <button type="button" onclick="location.href='@Url.Action("EditRegister", "Account",  new { id = item.Id }, null)'"> <i class="fa fa-pencil-square-o"></i></button>*@
+
+                <a href="@Url.Action("EditRegister", "Account",  new { id = item.Id }, null)" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-pencil-square-o"></i>
+                </a>
+                <a href="@Url.Action("Delete", "Korisnici",  new { id = item.Id })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-trash-o"></i>
+                </a>
+
+
+
+                @*@Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
+            </td>
+        </tr>
+    }
+</table>
+
+
+<style type="text/css">
+
+    body {
+        color: #000;
+    }
+
+
+    table {
+        background-color: #fff;
+        border-radius: 15px;
+        color:grey;
+    }
+
+
+
+    th {
+        color: #000;
+    }
+
+    tr:hover {
+        color: #000;
+    }
+
+    a {
+        margin-left: 15px;
+        color: #3B5998;
+        font-weight: bold;
+    }
+
+        a:hover {
+            color: #1a3a7e;
+        }
+
+    #dugme {
+        display: inline-block;
+        float: right;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+    }
+
+        #dugme:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+    }
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

@@ -1,0 +1,128 @@
+﻿
+ @model IEnumerable<TestFinal.Models.KontaktTelefon>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    Kontakt: @ViewBag.ImeOsobe @ViewBag.PrezimeOsobe
+    <button type="button" onclick="location.href='@Url.Action("Create", "KontaktTelefons",  new { id = ViewBag.Idiot })'" id="dugme" class="btn btn-default">Dodaj broj telefona</button>
+</h2>
+<hr />
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OznakaTelefona)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BrojTelefona)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Lokal)
+        </th>
+        <th>
+            Opcije
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OznakaTelefona)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrojTelefona)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lokal)
+            </td>
+            <td>
+
+                <a href="@Url.Action("Edit", "KontaktTelefons",  new { id = item.IDTel })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-pencil-square-o"></i>
+                </a>
+
+
+                <a href="@Url.Action("Details", "KontaktTelefons",  new { id = item.IDTel })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-eye"></i>
+                </a>
+                <a href="@Url.Action("Delete", "KontaktTelefons",  new { id = item.IDTel })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-trash-o"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    <button type="button" onclick="location.href='@Url.Action("Index", "Kontakt",  new { id = ViewBag.Idiot }, null)'" class="btn btn-default" id="dugmeS">Nazad</button>
+</div>
+
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+
+    table {
+        background-color: #fff;
+        border-radius: 15px;
+        color: grey;
+    }
+
+
+
+    th {
+        color: #000;
+    }
+
+    tr:hover {
+        color: #000;
+    }
+
+    a {
+        margin-left: 15px;
+        color: #3B5998;
+        font-weight: bold;
+    }
+
+        a:hover {
+            color: #1a3a7e;
+        }
+
+    #dugme {
+        display: inline-block;
+        float: right;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+    }
+
+        #dugme:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+    }
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

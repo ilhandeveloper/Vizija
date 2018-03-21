@@ -1,0 +1,85 @@
+﻿@using TestFinal.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Prijavi se";
+}
+<div style="position:relative; padding-top:10%;">
+    <h2 style="text-align:center;">@ViewBag.Title</h2>
+    <div class="row">
+        <div class="col-md-8">
+            <section id="loginForm">
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h4>Koristi postojeći nalog kako bi se ulogovao.</h4>
+                    
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group" style="margin-left:-3%">
+                        @Html.LabelFor(m => m.UserName, "Korisničko ime", new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "Unesite korisničko ime" })
+                            @Html.ValidationMessageFor(m => m.UserName, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group" style="margin-left:-3%">
+                        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Unesite lozinku" })
+
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <div class="form-group" style="margin-left:-3%">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Prijavi se" class="btn btn-default" id="dugme" />
+                        </div>
+                    </div>
+
+                   
+                }
+            </section>
+        </div>
+    </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    .row {
+        width: 1000px;
+        display: block;
+        margin: 0 auto;
+        padding-left: 8%;
+    }
+
+    #loginForm {
+        width: 800px;
+        margin: 0 auto;
+        padding-left: 35%;
+    }
+
+
+    #dugme {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 35px;
+        width: 100px;
+    }
+
+        #dugme:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+</style>

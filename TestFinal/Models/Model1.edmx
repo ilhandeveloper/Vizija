@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="VizijaXModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="GlavnaTabela">
+          <Key>
+            <PropertyRef Name="IDPreduzeca" />
+          </Key>
+          <Property Name="IDPreduzeca" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NazivPreduzeca" Type="nvarchar" MaxLength="100" />
+          <Property Name="AdresaRegistracijePreduzeca" Type="nvarchar" MaxLength="100" />
+          <Property Name="Opstina" Type="nvarchar" MaxLength="50" />
+          <Property Name="MaticniBrojPreduzeca" Type="nvarchar" MaxLength="15" />
+          <Property Name="PIB" Type="nvarchar" MaxLength="30" />
+          <Property Name="BrRacuna" Type="nvarchar" MaxLength="30" />
+          <Property Name="WebStranica" Type="nvarchar" MaxLength="50" />
+          <Property Name="Fotografija" Type="varbinary(max)" />
+          <Property Name="Beleska" Type="nvarchar" MaxLength="256" />
+        </EntityType>
+        <EntityType Name="Kontakt">
+          <Key>
+            <PropertyRef Name="IDOsoba" />
+          </Key>
+          <Property Name="IDOsoba" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="IDPreduzeca" Type="int" Nullable="false" />
+          <Property Name="Ime" Type="nvarchar" MaxLength="30" />
+          <Property Name="Prezime" Type="nvarchar" MaxLength="30" />
+          <Property Name="RadnoMesto" Type="nvarchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="KontaktMail">
+          <Key>
+            <PropertyRef Name="IDMail" />
+          </Key>
+          <Property Name="IDMail" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="IDOsoba" Type="int" Nullable="false" />
+          <Property Name="OznakaPosla" Type="nvarchar" MaxLength="25" />
+          <Property Name="Adresa" Type="nvarchar" MaxLength="30" />
+        </EntityType>
+        <EntityType Name="KontaktTelefon">
+          <Key>
+            <PropertyRef Name="IDTel" />
+          </Key>
+          <Property Name="IDTel" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="IDOsoba" Type="int" Nullable="false" />
+          <Property Name="OznakaTelefona" Type="nvarchar" MaxLength="25" />
+          <Property Name="BrojTelefona" Type="nvarchar" MaxLength="15" />
+          <Property Name="Lokal" Type="nvarchar" MaxLength="30" />
+        </EntityType>
+        <Association Name="FK_Kontakt_GlavnaTabela">
+          <End Role="GlavnaTabela" Type="Self.GlavnaTabela" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GlavnaTabela">
+              <PropertyRef Name="IDPreduzeca" />
+            </Principal>
+            <Dependent Role="Kontakt">
+              <PropertyRef Name="IDPreduzeca" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KontaktMail_Kontakt">
+          <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="KontaktMail" Type="Self.KontaktMail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kontakt">
+              <PropertyRef Name="IDOsoba" />
+            </Principal>
+            <Dependent Role="KontaktMail">
+              <PropertyRef Name="IDOsoba" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KontaktTelefon_Kontakt">
+          <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="KontaktTelefon" Type="Self.KontaktTelefon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kontakt">
+              <PropertyRef Name="IDOsoba" />
+            </Principal>
+            <Dependent Role="KontaktTelefon">
+              <PropertyRef Name="IDOsoba" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="VizijaXModelStoreContainer">
+          <EntitySet Name="GlavnaTabela" EntityType="Self.GlavnaTabela" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Kontakt" EntityType="Self.Kontakt" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KontaktMail" EntityType="Self.KontaktMail" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KontaktTelefon" EntityType="Self.KontaktTelefon" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Kontakt_GlavnaTabela" Association="Self.FK_Kontakt_GlavnaTabela">
+            <End Role="GlavnaTabela" EntitySet="GlavnaTabela" />
+            <End Role="Kontakt" EntitySet="Kontakt" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KontaktMail_Kontakt" Association="Self.FK_KontaktMail_Kontakt">
+            <End Role="Kontakt" EntitySet="Kontakt" />
+            <End Role="KontaktMail" EntitySet="KontaktMail" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KontaktTelefon_Kontakt" Association="Self.FK_KontaktTelefon_Kontakt">
+            <End Role="Kontakt" EntitySet="Kontakt" />
+            <End Role="KontaktTelefon" EntitySet="KontaktTelefon" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="VizijaXModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="GlavnaTabela">
+          <Key>
+            <PropertyRef Name="IDPreduzeca" />
+          </Key>
+          <Property Name="IDPreduzeca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NazivPreduzeca" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="AdresaRegistracijePreduzeca" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="Opstina" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MaticniBrojPreduzeca" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+          <Property Name="PIB" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="BrRacuna" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="WebStranica" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Fotografija" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="Beleska" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Kontakts" Relationship="Self.FK_Kontakt_GlavnaTabela" FromRole="GlavnaTabela" ToRole="Kontakt" />
+        </EntityType>
+        <EntityType Name="Kontakt">
+          <Key>
+            <PropertyRef Name="IDOsoba" />
+          </Key>
+          <Property Name="IDOsoba" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="IDPreduzeca" Type="Int32" Nullable="false" />
+          <Property Name="Ime" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="Prezime" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <Property Name="RadnoMesto" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="GlavnaTabela" Relationship="Self.FK_Kontakt_GlavnaTabela" FromRole="Kontakt" ToRole="GlavnaTabela" />
+          <NavigationProperty Name="KontaktMails" Relationship="Self.FK_KontaktMail_Kontakt" FromRole="Kontakt" ToRole="KontaktMail" />
+          <NavigationProperty Name="KontaktTelefons" Relationship="Self.FK_KontaktTelefon_Kontakt" FromRole="Kontakt" ToRole="KontaktTelefon" />
+        </EntityType>
+        <EntityType Name="KontaktMail">
+          <Key>
+            <PropertyRef Name="IDMail" />
+          </Key>
+          <Property Name="IDMail" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="IDOsoba" Type="Int32" Nullable="false" />
+          <Property Name="OznakaPosla" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="Adresa" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Kontakt" Relationship="Self.FK_KontaktMail_Kontakt" FromRole="KontaktMail" ToRole="Kontakt" />
+        </EntityType>
+        <EntityType Name="KontaktTelefon">
+          <Key>
+            <PropertyRef Name="IDTel" />
+          </Key>
+          <Property Name="IDTel" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="IDOsoba" Type="Int32" Nullable="false" />
+          <Property Name="OznakaTelefona" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+          <Property Name="BrojTelefona" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+          <Property Name="Lokal" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Kontakt" Relationship="Self.FK_KontaktTelefon_Kontakt" FromRole="KontaktTelefon" ToRole="Kontakt" />
+        </EntityType>
+        <Association Name="FK_Kontakt_GlavnaTabela">
+          <End Role="GlavnaTabela" Type="Self.GlavnaTabela" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="GlavnaTabela">
+              <PropertyRef Name="IDPreduzeca" />
+            </Principal>
+            <Dependent Role="Kontakt">
+              <PropertyRef Name="IDPreduzeca" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KontaktMail_Kontakt">
+          <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="KontaktMail" Type="Self.KontaktMail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kontakt">
+              <PropertyRef Name="IDOsoba" />
+            </Principal>
+            <Dependent Role="KontaktMail">
+              <PropertyRef Name="IDOsoba" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_KontaktTelefon_Kontakt">
+          <End Role="Kontakt" Type="Self.Kontakt" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="KontaktTelefon" Type="Self.KontaktTelefon" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Kontakt">
+              <PropertyRef Name="IDOsoba" />
+            </Principal>
+            <Dependent Role="KontaktTelefon">
+              <PropertyRef Name="IDOsoba" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Vizija" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="GlavnaTabelas" EntityType="Self.GlavnaTabela" />
+          <EntitySet Name="Kontakts" EntityType="Self.Kontakt" />
+          <EntitySet Name="KontaktMails" EntityType="Self.KontaktMail" />
+          <EntitySet Name="KontaktTelefons" EntityType="Self.KontaktTelefon" />
+          <AssociationSet Name="FK_Kontakt_GlavnaTabela" Association="Self.FK_Kontakt_GlavnaTabela">
+            <End Role="GlavnaTabela" EntitySet="GlavnaTabelas" />
+            <End Role="Kontakt" EntitySet="Kontakts" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KontaktMail_Kontakt" Association="Self.FK_KontaktMail_Kontakt">
+            <End Role="Kontakt" EntitySet="Kontakts" />
+            <End Role="KontaktMail" EntitySet="KontaktMails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_KontaktTelefon_Kontakt" Association="Self.FK_KontaktTelefon_Kontakt">
+            <End Role="Kontakt" EntitySet="Kontakts" />
+            <End Role="KontaktTelefon" EntitySet="KontaktTelefons" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="VizijaXModelStoreContainer" CdmEntityContainer="Vizija">
+          <EntitySetMapping Name="GlavnaTabelas">
+            <EntityTypeMapping TypeName="VizijaXModel.GlavnaTabela">
+              <MappingFragment StoreEntitySet="GlavnaTabela">
+                <ScalarProperty Name="IDPreduzeca" ColumnName="IDPreduzeca" />
+                <ScalarProperty Name="NazivPreduzeca" ColumnName="NazivPreduzeca" />
+                <ScalarProperty Name="AdresaRegistracijePreduzeca" ColumnName="AdresaRegistracijePreduzeca" />
+                <ScalarProperty Name="Opstina" ColumnName="Opstina" />
+                <ScalarProperty Name="MaticniBrojPreduzeca" ColumnName="MaticniBrojPreduzeca" />
+                <ScalarProperty Name="PIB" ColumnName="PIB" />
+                <ScalarProperty Name="BrRacuna" ColumnName="BrRacuna" />
+                <ScalarProperty Name="WebStranica" ColumnName="WebStranica" />
+                <ScalarProperty Name="Fotografija" ColumnName="Fotografija" />
+                <ScalarProperty Name="Beleska" ColumnName="Beleska" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Kontakts">
+            <EntityTypeMapping TypeName="VizijaXModel.Kontakt">
+              <MappingFragment StoreEntitySet="Kontakt">
+                <ScalarProperty Name="IDOsoba" ColumnName="IDOsoba" />
+                <ScalarProperty Name="IDPreduzeca" ColumnName="IDPreduzeca" />
+                <ScalarProperty Name="Ime" ColumnName="Ime" />
+                <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+                <ScalarProperty Name="RadnoMesto" ColumnName="RadnoMesto" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KontaktMails">
+            <EntityTypeMapping TypeName="VizijaXModel.KontaktMail">
+              <MappingFragment StoreEntitySet="KontaktMail">
+                <ScalarProperty Name="IDMail" ColumnName="IDMail" />
+                <ScalarProperty Name="IDOsoba" ColumnName="IDOsoba" />
+                <ScalarProperty Name="OznakaPosla" ColumnName="OznakaPosla" />
+                <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KontaktTelefons">
+            <EntityTypeMapping TypeName="VizijaXModel.KontaktTelefon">
+              <MappingFragment StoreEntitySet="KontaktTelefon">
+                <ScalarProperty Name="IDTel" ColumnName="IDTel" />
+                <ScalarProperty Name="IDOsoba" ColumnName="IDOsoba" />
+                <ScalarProperty Name="OznakaTelefona" ColumnName="OznakaTelefona" />
+                <ScalarProperty Name="BrojTelefona" ColumnName="BrojTelefona" />
+                <ScalarProperty Name="Lokal" ColumnName="Lokal" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

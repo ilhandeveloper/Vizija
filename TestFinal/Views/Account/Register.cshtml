@@ -1,0 +1,106 @@
+﻿@model TestFinal.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Kreiranje korisnika";
+}
+<h2>@ViewBag.Title</h2>
+@using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <hr />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Unesite E-mail" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.UserName, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", placeholder = "Unesite koriisničko ime" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Unesite Lozinku" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.ConfirmPassword, "Potvrdi lozinku", new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", placeholder = "Potvrdite lozinku" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Pravo pristupa", new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownList("UserRoles", (SelectList)ViewBag.Name, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="dugme" value="Kreiraj" />
+        </div>
+    </div>
+    <div>
+        <button type="button" onclick="location.href='@Url.Action("Index", "Korisnici")'" class="dugmeE">Nazad</button>
+    </div>
+
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    .dugme {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+    .dugmeE {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    .dugme:hover {
+        color: #1a3a7e;
+        border-color: #1a3a7e;
+    }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

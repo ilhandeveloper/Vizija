@@ -1,0 +1,846 @@
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\TestFinal\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projektni centar\TestFinal.0.51\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projektni centar\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\Yogimanz\Desktop\novijiodsvih\New folder\MyVer0,1 - Copy\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija.0.8\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\ProjekatVizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\ProjekatVizija0.94-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\Pavle\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija0.98\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija0.99\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Vizija0.999\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\TestFinal.Tests.pdb
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\TestFinal.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Owin.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\EntityFramework.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\TestFinal.pdb
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\TestFinal.dll.config
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\EntityFramework.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CoreCompileInputs.cache
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.csproj.CopyComplete
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.dll
+C:\Users\icy_t\Desktop\Projekat\VizijaX-master\TestFinal.Tests\obj\Debug\TestFinal.Tests.pdb

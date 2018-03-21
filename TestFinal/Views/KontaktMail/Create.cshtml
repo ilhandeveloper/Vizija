@@ -1,0 +1,88 @@
+﻿@model TestFinal.Models.KontaktMail
+@{
+    ViewBag.Title = "Create";
+}
+<h2>Dodavanje novog E-maila</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.OznakaPosla, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OznakaPosla, new { htmlAttributes = new { @class = "form-control", placeholder = "Unesite tip adrese" } })
+                @Html.ValidationMessageFor(model => model.OznakaPosla, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Adresa, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Adresa, new { htmlAttributes = new { @class = "form-control", placeholder = "Unesite adresu" } })
+                @Html.ValidationMessageFor(model => model.Adresa, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Dodaj" class="btn btn-default" id="dugme" />
+            </div>
+        </div>
+    </div>
+}
+<div>
+    <button type="button" onclick="location.href='@Url.Action("Index", "KontaktMail",  new { id = ViewBag.Id })'" class="dugmeE">Nazad</button>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    #dugme {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 170px;
+    }
+
+    .dugmeE {
+        display: block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    #dugme:hover {
+        color: #1a3a7e;
+        border-color: #1a3a7e;
+    }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

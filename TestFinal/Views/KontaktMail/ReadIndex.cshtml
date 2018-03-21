@@ -1,0 +1,113 @@
+﻿@model IEnumerable<TestFinal.Models.KontaktMail>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    @ViewBag.ImeOsobe @ViewBag.PrezimeOsobe E-mail
+</h2>
+<table class="table table-hover table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Kontakt.Ime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Adresa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OznakaPosla)
+        </th>
+        <th>Opcije</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kontakt.Ime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OznakaPosla)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adresa)
+            </td>
+            <td>
+
+                <a href="@Url.Action("Details", "KontaktMail",  new { id = item.IDMail })" class="ikonica" style="font-size: 18px;">
+                    <i class="fa fa-eye"></i>
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+<button type="button" onclick="location.href='@Url.Action("Index", "Kontakt", new { id = ViewBag.Id }, null)'" class="btn btn-default" id="dugmeS">Nazad</button>
+
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+
+    table {
+        background-color: #fff;
+        border-radius: 15px;
+        color: grey;
+    }
+
+
+
+    th {
+        color: #000;
+    }
+
+    tr:hover {
+        color: #000;
+    }
+
+    a {
+        margin-left: 15px;
+        color: #3B5998;
+        font-weight: bold;
+    }
+
+        a:hover {
+            color: #1a3a7e;
+        }
+
+    #dugme {
+        display: inline-block;
+        float: right;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+    }
+
+        #dugme:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+    }
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

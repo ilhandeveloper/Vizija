@@ -1,0 +1,91 @@
+﻿@model TestFinal.Models.Kontakt
+@{
+    ViewBag.Title = "Details";
+}
+<h2>Detalji o zaposlenom</h2>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ime)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Prezime)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Prezime)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.RadnoMesto)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RadnoMesto)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.GlavnaTabela.NazivPreduzeca)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.GlavnaTabela.NazivPreduzeca)
+        </dd>
+    </dl>
+</div>
+<p>
+    <button type="button" onclick="location.href='@Url.Action("Index", "Kontakt",  new { id = Model.IDPreduzeca })'" class="dugmeE">Nazad</button>
+    <a href="javascript:window.print()" class="btn btn-default" id="dugmeS">Štampaj</a>
+</p>
+
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        height: 30px;
+        width: 100px;
+        padding: 5px 12px;
+    }
+
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    .dugmeE {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+
+
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>

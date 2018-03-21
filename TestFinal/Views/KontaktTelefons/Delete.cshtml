@@ -1,0 +1,93 @@
+﻿@model TestFinal.Models.KontaktTelefon
+@{
+    ViewBag.Title = "Delete";
+}
+<h2>Brisanje telefona</h2>
+<h3>Da li ste sigurni da želite obrsisati ovaj telefon?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OznakaTelefona)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.OznakaTelefona)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BrojTelefona)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.BrojTelefona)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Lokal)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Lokal)<p></p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Kontakt.Ime)<p></p>
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Kontakt.Ime)<p></p>
+        </dd>
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Izbriši" class="btn btn-default" id="dugmeS" />
+            <button type="button" onclick="location.href='@Url.Action("Index","KontaktTelefons",  new { id = Model.IDOsoba })'" class="dugmeE">Nazad</button>
+        </div>
+    }
+</div>
+<style type="text/css">
+
+
+    body {
+        color: #000;
+    }
+
+    #dugmeS {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        height: 30px;
+        width: 100px;
+        padding: 5px 12px;
+    }
+
+
+        #dugmeS:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    .dugmeE {
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+        font-weight: bold;
+        border-radius: 30px;
+        border-width: 1.5px;
+        border-color: #3B5998;
+        margin-top: -5px;
+        height: 30px;
+        width: 100px;
+    }
+
+
+        .dugmeE:hover {
+            color: #1a3a7e;
+            border-color: #1a3a7e;
+        }
+
+    hr {
+        border-color: #3B5998;
+    }
+</style>
